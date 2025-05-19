@@ -45,7 +45,7 @@ git clone https://github.com/ton-compte/epytodo.git
 cd epytodo
 ```
 
-#### Cloner le projet
+#### Installer les dépendences
 ```bash
 npm install
 ```
