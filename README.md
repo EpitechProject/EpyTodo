@@ -43,3 +43,14 @@ Ce projet met en pratique les bases du développement d’une application web ba
 ```bash
 git clone https://github.com/ton-compte/epytodo.git
 cd epytodo
+```
+
+#### Cloner le projet
+```bash
+npm install
+```
+
+##### Lancer le serveur
+```bash
+npm start
+```
