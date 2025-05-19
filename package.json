@@ -1,0 +1,33 @@
+{
+  "name": "epytodo",
+  "version": "1.0.0",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.mjs",
+    "start": "node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPGEPromo2029/B-WEB-200-MAR-2-1-epytodo-tikinas.oughlis.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/EpitechPGEPromo2029/B-WEB-200-MAR-2-1-epytodo-tikinas.oughlis/issues"
+  },
+  "homepage": "https://github.com/EpitechPGEPromo2029/B-WEB-200-MAR-2-1-epytodo-tikinas.oughlis#readme",
+  "description": "The official EpyTodo web application. A Trello-like for EPITECH.",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.0.0"
+  }
+}
